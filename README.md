@@ -5,3 +5,4 @@ Terminal emulator configs using the dracula theme
 - alacritty 
 - kitty
 - roxterm
+- gnome-terminal
