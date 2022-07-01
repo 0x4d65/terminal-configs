@@ -4,3 +4,4 @@ Terminal emulator configs using the dracula theme
 - urxvt (via Xresources)
 - alacritty 
 - kitty
+- roxterm

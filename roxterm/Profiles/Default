@@ -1,0 +1,10 @@
+[roxterm profile]
+font=Monospace 11
+text_blink_mode=3
+bold_is_bright=1
+hide_menubar=1
+always_show_tabs=0
+saturation=0.9
+cursor_shape=1
+cursor_blink_mode=1
+colour_scheme=Dracula
