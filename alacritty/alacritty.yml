@@ -1,0 +1,15 @@
+# Alacritty config by 0x4d65
+# Using dracula color theme
+import:
+    - ~/.config/alacritty/colortheme.yml
+# cfg
+window:
+  opacity: 0.9
+font:
+  size: 11
+cursor:
+  style:
+    shape: Beam
+    blinking: On
+
+      
